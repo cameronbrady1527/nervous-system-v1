@@ -10,13 +10,13 @@ This project provides a hierarchical representation of the nervous system, from 
 
 The implementation uses two main approaches:
 
-### Approach 2: Object-Oriented Framework
+### Approach 1: Object-Oriented Framework
 - **Abstract base classes** for consistent component behavior
 - **Specialized classes** for different types of neural structures
 - **Signal processing** capabilities throughout the hierarchy
 - **Hierarchical relationships** with parent/child structure
 
-### Approach 3: System Builder Pattern
+### Approach 2: System Builder Pattern
 - **Automated construction** of the complete nervous system hierarchy
 - **Anatomically accurate** organization of brain regions
 - **Functional specialization** based on real neuroscience
